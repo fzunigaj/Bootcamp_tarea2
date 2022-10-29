@@ -16,6 +16,9 @@ a:hover{
     border: 2px solid rgb(30, 33, 210);
     color: rgb(68, 0, 255);
 }
+h1{
+    text-align: center;
+}
 h2{
     text-align: center;
 }
@@ -26,3 +29,14 @@ table{
     text-align: center;
 }
 
+label{
+    margin-left: 1px;
+
+}
+input{
+    background-color: azure;
+}
+table{
+    background-color: antiquewhite;
+   margin: auto;
+}
